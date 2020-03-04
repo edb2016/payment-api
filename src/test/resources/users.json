@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "firstName": "Eden",
+      "lastName": "Hazard",
+      "email": "eden.hazard@chelsseafc.com",
+      "username": "eden2020"
+    },
+    {
+      "firstName": "Ross",
+      "lastName": "Barkley",
+      "email": "ross.barkley@chelsseafc.com",
+      "username": "ross2020"
+    },
+    {
+      "firstName": "Billy",
+      "lastName": "Blogs",
+      "email": "billy.bloggs@hotmail.com",
+      "username": "billy2020"
+    },
+    {
+      "firstName": "Anna",
+      "lastName": "Belvey",
+      "email": "anna.belvey@hotmail.com",
+      "username": "anabel2020"
+    },
+    {
+      "firstName": "Steve",
+      "lastName": "Jobs",
+      "email": "steve.jobs@apple.com",
+      "username": "stevejobs2020"
+    }
+  ]
+}
